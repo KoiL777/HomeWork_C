@@ -18,5 +18,7 @@ int RemoveSecondDigit(int num)
     return position2;
 }
 }
-else {
-Console.WriteLine("Ошибка! Данное число не является трёхзначным");}
+else 
+{
+Console.WriteLine("Ошибка! Данное число не является трёхзначным");
+}
